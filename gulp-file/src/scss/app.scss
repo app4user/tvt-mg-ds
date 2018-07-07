@@ -25,3 +25,5 @@ ul
 
 .pull-left      { @extend #LEFT; }
 .pull-right     { @extend #RIGHT; }
+
+body { color: $light; }
